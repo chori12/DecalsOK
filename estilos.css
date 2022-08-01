@@ -14,7 +14,7 @@ body{
 }
 
 .hero{
-    background-image: linear-gradient(120deg, rgba(193, 167, 130, 0.699) 0%, rgba(85, 27, 35, 0.692) 100%), url("/img/pexels-photo-2783837.jpeg" );
+    background-image: linear-gradient(120deg, rgba(193, 167, 130, 0.699) 0%, rgba(85, 27, 35, 0.692) 100%), url("pexels-photo-2783837.jpeg" );
     width: 100%;
     height: 650px;
     background-repeat: no-repeat;
